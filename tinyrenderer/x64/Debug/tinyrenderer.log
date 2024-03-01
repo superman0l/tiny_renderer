@@ -1,0 +1,254 @@
+﻿  ex.cpp
+D:\vs_cpp_prjs\tinyrenderer\tinyrenderer\tgaimage.h(69,51): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+  geometry.cpp
+D:\vs_cpp_prjs\tinyrenderer\tinyrenderer\geometry.cpp(4,69): warning C4244: “初始化”: 从“const T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\vs_cpp_prjs\tinyrenderer\tinyrenderer\geometry.cpp(4,77): warning C4244: “初始化”: 从“const T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\vs_cpp_prjs\tinyrenderer\tinyrenderer\geometry.cpp(4,85): warning C4244: “初始化”: 从“const T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\vs_cpp_prjs\tinyrenderer\tinyrenderer\geometry.cpp(6,69): warning C4244: “初始化”: 从“const T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\vs_cpp_prjs\tinyrenderer\tinyrenderer\geometry.cpp(6,77): warning C4244: “初始化”: 从“const T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  main.cpp
+D:\vs_cpp_prjs\tinyrenderer\tinyrenderer\tgaimage.h(69,51): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\vs_cpp_prjs\tinyrenderer\tinyrenderer\main.cpp(76,70): warning C4244: “参数”: 从“double”转换到“const _Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+D:\vs_cpp_prjs\tinyrenderer\tinyrenderer\main.cpp(76,67): warning C4244: “=”: 从“const _Ty”转换到“unsigned char”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+D:\vs_cpp_prjs\tinyrenderer\tinyrenderer\main.cpp(157,40): warning C4244: “参数”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\vs_cpp_prjs\tinyrenderer\tinyrenderer\main.cpp(157,27): warning C4244: “参数”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\vs_cpp_prjs\tinyrenderer\tinyrenderer\main.cpp(178,47): warning C4244: “参数”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\vs_cpp_prjs\tinyrenderer\tinyrenderer\main.cpp(178,34): warning C4244: “参数”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\vs_cpp_prjs\tinyrenderer\tinyrenderer\main.cpp(180,21): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\vs_cpp_prjs\tinyrenderer\tinyrenderer\main.cpp(207,22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\vs_cpp_prjs\tinyrenderer\tinyrenderer\main.cpp(215,67): warning C4244: “参数”: 从“double”转换到“const _Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+D:\vs_cpp_prjs\tinyrenderer\tinyrenderer\main.cpp(215,63): warning C4244: “=”: 从“const _Ty”转换到“unsigned char”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+D:\vs_cpp_prjs\tinyrenderer\tinyrenderer\main.cpp(238,17): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\vs_cpp_prjs\tinyrenderer\tinyrenderer\main.cpp(317,95): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\vs_cpp_prjs\tinyrenderer\tinyrenderer\main.cpp(376,65): warning C4305: “+=”: 从“double”到“float”截断
+D:\vs_cpp_prjs\tinyrenderer\tinyrenderer\main.cpp(377,75): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\vs_cpp_prjs\tinyrenderer\tinyrenderer\main.cpp(377,72): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\vs_cpp_prjs\tinyrenderer\tinyrenderer\main.cpp(377,35): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+D:\vs_cpp_prjs\tinyrenderer\tinyrenderer\main.cpp(379,36): warning C4305: “/=”: 从“double”到“float”截断
+D:\vs_cpp_prjs\tinyrenderer\tinyrenderer\main.cpp(381,70): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\vs_cpp_prjs\tinyrenderer\tinyrenderer\main.cpp(381,57): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\vs_cpp_prjs\tinyrenderer\tinyrenderer\main.cpp(381,44): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+  model.cpp
+D:\vs_cpp_prjs\tinyrenderer\tinyrenderer\tgaimage.h(69,51): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\vs_cpp_prjs\tinyrenderer\tinyrenderer\model.cpp(85,55): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+D:\vs_cpp_prjs\tinyrenderer\tinyrenderer\model.cpp(85,21): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+D:\vs_cpp_prjs\tinyrenderer\tinyrenderer\model.cpp(90,54): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+D:\vs_cpp_prjs\tinyrenderer\tinyrenderer\model.cpp(90,21): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+D:\vs_cpp_prjs\tinyrenderer\tinyrenderer\model.cpp(103,56): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+D:\vs_cpp_prjs\tinyrenderer\tinyrenderer\model.cpp(103,21): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+  our_gl.cpp
+D:\vs_cpp_prjs\tinyrenderer\tinyrenderer\tgaimage.h(69,51): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\vs_cpp_prjs\tinyrenderer\tinyrenderer\our_gl.cpp(72,23): warning C4244: “=”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+D:\vs_cpp_prjs\tinyrenderer\tinyrenderer\our_gl.cpp(73,27): warning C4244: “=”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+D:\vs_cpp_prjs\tinyrenderer\tinyrenderer\our_gl.cpp(99,23): warning C4244: “=”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+D:\vs_cpp_prjs\tinyrenderer\tinyrenderer\our_gl.cpp(100,27): warning C4244: “=”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+D:\vs_cpp_prjs\tinyrenderer\tinyrenderer\our_gl.cpp(104,28): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\vs_cpp_prjs\tinyrenderer\tinyrenderer\our_gl.cpp(108,58): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\vs_cpp_prjs\tinyrenderer\tinyrenderer\our_gl.cpp(123,59): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\vs_cpp_prjs\tinyrenderer\tinyrenderer\our_gl.cpp(123,35): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\vs_cpp_prjs\tinyrenderer\tinyrenderer\our_gl.cpp(132,23): warning C4244: “=”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+D:\vs_cpp_prjs\tinyrenderer\tinyrenderer\our_gl.cpp(133,27): warning C4244: “=”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+D:\vs_cpp_prjs\tinyrenderer\tinyrenderer\our_gl.cpp(139,56): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\vs_cpp_prjs\tinyrenderer\tinyrenderer\our_gl.cpp(139,51): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  正在生成代码...
+  tinyrenderer.vcxproj -> D:\vs_cpp_prjs\tinyrenderer\x64\Debug\tinyrenderer.exe
